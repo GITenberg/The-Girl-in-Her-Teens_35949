@@ -1,0 +1,26 @@
+_repo: The-Girl-in-Her-Teens_35949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slattery, Margaret
+    gutenberg_agent_id: '6765'
+    url: http://www.gutenberg.org/2009/agents/6765
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2011-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls'
+- !lcsh 'Teenage girls'
+- !lcc 'HQ'
+title: The Girl in Her Teens
+url: http://www.gutenberg.org/ebooks/35949
